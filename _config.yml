@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://purplejacket.github.io
+title: purplejacket
+email: kaimiddleton@yahoo.com
+author: Kai Middleton
+description: Ruby, Rails, programming
+paginate: 3
+google_analytics: 
